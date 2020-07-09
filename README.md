@@ -3,3 +3,6 @@ It is a machine learning model which runs on multiple linear regression to predi
 
 
 it is ipynb file which will run in anaconda jupyter notebook youll have to dowload packages numpy , matplotlib , statsmodel , pandas , seaborn , sklearn .
+
+
+download the files and run with jupyter notebook and save all the files in the same folder 
